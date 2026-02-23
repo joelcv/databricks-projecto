@@ -1,0 +1,8 @@
+venta_id,fecha,cliente_id,producto,monto
+1,2026-01-01,100,Teclado,500
+2,2026-01-02,101,Mouse,300
+3,2026-01-03,100,Monitor,2500
+4,2026-01-20,102,audifonos,200
+5,2026-01-27,103,cargador,450
+6,2026-01-25,103,funda,200
+7,2026-01-24,102,cables,400
